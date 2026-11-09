@@ -1,6 +1,6 @@
 <div align="center"><img src="./assets/social-preview-image.png" width="400px"></div>
 
-<br />
+<br />Log in to your account quickly 
 
 [![CI](https://github.com/hesreallyhim/proton-pass-community-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/hesreallyhim/proton-pass-community-mcp/actions/workflows/ci.yml)
 [![Production Hygiene](https://github.com/hesreallyhim/proton-pass-community-mcp/actions/workflows/production-hygiene.yml/badge.svg)](https://github.com/hesreallyhim/proton-pass-community-mcp/actions/workflows/production-hygiene.yml)
